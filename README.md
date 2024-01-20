@@ -1,5 +1,5 @@
 # LeetCode-Info
-LeetCode-Info is small parser that allows you to view small profile statistics on the litcode
+LeetCode-Info is small parser that allows you to view small profile statistics on the LeetCode
 
 ## Example
 Just run `python main.py`
